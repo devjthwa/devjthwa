@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @devjthwa
-- 🌱 I’m currently learning Mern development 
-- 💞️ I’m looking to collaborate on Coding...
-- 📫 on Instagram @devjthwa
 
 <!---
 devjthwa/devjthwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
