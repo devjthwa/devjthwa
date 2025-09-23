@@ -5,18 +5,16 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I'm Dev Jethwa  
 
-🚀 **Junior Web Developer | Data Analyst | AI/ML Enthusiast**  
+🚀 **Web Developer | Data Analyst | AI/ML Enthusiast**  
 💡 Passionate about building innovative, scalable, and impactful tech solutions.  
 📍 Based in India | 🌐 Open to Remote & On-site Opportunities  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 **BCA Graduate** with strong foundations in **Python, JavaScript, Java, HTML, CSS**  
-- 🏆 **State-Level Champion Web Developer** with internship experience in IT  
-- 📊 7 months of experience as a **Data Analyst** (Python, Pandas, NumPy, Matplotlib)  
-- 🌱 Currently learning **React.js**, **Machine Learning**, and **Full-Stack Development**  
-- 🤖 Exploring **AI, Generative AI, LLMs, TensorFlow, and PyTorch**  
+- 🎓 **BCA Graduate** with strong foundations in **Python, C, HTML, CSS**    
+- 📊 experience as a **Data Analyst** (Python, Pandas, NumPy, Matplotlib)  
+- 🤖 Exploring **AI, Generative AI, LLMs,**  
 - 🔍 Always curious to **solve real-world problems with technology**  
 
 ---
@@ -34,8 +32,6 @@ You can click the Preview link to take a look at your changes.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Databases & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -46,35 +42,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 📌 Featured Projects  
-
-### 🌐 [Portfolio Website](https://your-portfolio-link.com)
-Personal portfolio showcasing my skills, projects, and achievements.  
-**Tech:** HTML, CSS, JavaScript, Bootstrap  
-
-### 📊 Data Analysis Dashboard
-A Python-based analytics dashboard for visualizing large datasets.  
-**Tech:** Python, Pandas, Matplotlib, Seaborn  
-
-### 🤖 AI Chatbot
-A simple AI chatbot using Python and NLP libraries.  
-**Tech:** Python, NLTK, Flask  
-
-*(More projects available on my repositories...)*  
-
----
-
-## 📈 GitHub Stats  
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjethwa&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjethwa&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-Dev_Jethwa-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://linkedin.com/in/dev-jethva-77074a1b6/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://devjthwa.github.io/portfolio_/)  
+[![Email](https://img.shields.io/badge/Email-Dev_Jethwa-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:devjethva1702@gmail.com)  
 
 ---
 
