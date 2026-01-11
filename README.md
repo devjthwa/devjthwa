@@ -36,9 +36,9 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ## 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://linkedin.com/in/dev-jethva-77074a1b6/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://devjthwa.github.io/portfolio_/)  
-[![Email](https://img.shields.io/badge/Email-Dev_Jethwa-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:devjethva1702@gmail.com)  
+[[LinkedIn](https://linkedin.com/in/dev-jethva-77074a1b6/)]
+[[Portfolio](https://devjthwa.github.io/portfolio_/)]
+[[Email](mailto:devjethva1702@gmail.com)]
 
 ---
 
